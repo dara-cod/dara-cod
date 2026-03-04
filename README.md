@@ -1,4 +1,4 @@
-# 🌟 Tatiana Dara de Aragão Santos
+# 🌟 Dara Aragão 
 
 ![GitHub followers](https://img.shields.io/github/followers/dara-cod?style=social)
 ![GitHub stars](https://img.shields.io/github/stars/dara-cod?style=social)
@@ -66,13 +66,6 @@ Kafka, Redis, Messaging Patterns
 
 ---
 
-## 📈 GitHub Stats
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dara-cod&layout=compact&theme=radical)
-![Stats](https://github-readme-stats.vercel.app/api?username=dara-cod&show_icons=true&theme=radical)
-
----
-
 ## 🎓 Education
 
 🎓 Specialization in IT Management and Information Security — *UNIFACS*  
@@ -105,4 +98,4 @@ Kafka, Redis, Messaging Patterns
 
 ## ❤️ Fun Fact
 
-When I’m not building cloud platforms, I’m usually exploring new tech, reading sci-fi, or planning my next travel adventure ✈️
+I really like samba and play some percussion instruments. 
