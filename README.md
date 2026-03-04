@@ -1,8 +1,7 @@
 # 🌟 Dara Aragão 
 
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Tatiana%20Dara-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/tatiana-dara/)
-[![Email](https://img.shields.io/badge/Email-dara.aragao17%40gmail.com-c14438?style=flat)
+![Email](https://img.shields.io/badge/Email-dara.aragao17%40gmail.com-D14836?logo=gmail&logoColor=white&style=for-the-badge)
 
 🚀 **SRE | DevOps Engineer | Cloud & Kubernetes Specialist**  
 📍 Salvador, Brazil  
