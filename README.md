@@ -1,8 +1,7 @@
 # 🌟 Dara Aragão 
 
-![GitHub followers](https://img.shields.io/github/followers/dara-cod?style=social)
-![GitHub stars](https://img.shields.io/github/stars/dara-cod?style=social)
-![LinkedIn](https://img.shields.io/badge/LinkedIn-Tatiana%20Dara-blue?logo=linkedin&style=flat)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Tatiana%20Dara-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/tatiana-dara/)
 ![Email](https://img.shields.io/badge/Email-dara.aragao17%40gmail.com-c14438?style=flat)
 
 🚀 **SRE | DevOps Engineer | Cloud & Kubernetes Specialist**  
@@ -23,7 +22,7 @@ I love solving hard problems, optimizing systems, and architecting solutions tha
 ## 💼 Professional Experience
 
 ### 🟩 **SRE / DevOps Engineer** – *PicPay*  
-📆 *2024 – Present*
+📆 *2024 – 2026*
 
 - Led incident response and War Room operations
 - Built and managed scalable infrastructure using Terraform, Terragrunt, and Atlantis
